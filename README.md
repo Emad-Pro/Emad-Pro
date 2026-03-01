@@ -1,16 +1,15 @@
-<!-- Header -->
 <div align="center">
   <img src="https://i.ibb.co/GtKzHd8/giphy.gif8&auto=format&fit=crop&w=2000&q=80" width="100%" alt="Banner"/>
 
   <h1>Hi there, I'm Emad Younis 👋</h1>
-  <h3>Flutter Developer • Instructional Design Enthusiast</h3>
+  <h3>Mobile Developer & Flutter Team Lead</h3>
 
   <p>
-    🔭 Currently working as a <strong>Flutter Programmer</strong><br/>
-    🌱 Learning more about <strong>Instructional Design</strong><br/>
-    🤝 Open to collaborate on <strong>GitHub</strong><br/>
-    ❤️ I love helping others & sharing knowledge<br/>
-    ⚡ <i>Fun fact:</i> Programming is life
+    🔭 Currently working as a <strong>Flutter Team Lead</strong><br/>
+    📦 Creator of <strong><a href="https://pub.dev/packages/app_name_localizer">app_name_localizer</a></strong> on pub.dev<br/>
+    ⚙️ Specialized in <strong>CI/CD, Flutter Flavors & Scalable Architecture</strong><br/>
+    🤝 Open to collaborating on <strong>Open Source Mobile Projects</strong><br/>
+    ⚡ <i>Goal:</i> Bridging technical execution and business requirements to deliver robust applications.
   </p>
 </div>
 
@@ -18,53 +17,32 @@
 
 ## 🧑‍💻 About Me
 
-- 👂 My name is **Emad Younis**
-- 💼 I enjoy building **mobile apps with Flutter**
-- 📚 Passionate about **Instructional Design** and creating learning experiences
-- 💬 Ask me about **Flutter, Dart, and Instructional Design**
-- 🎯 Goal: Improve my open-source contribution and build useful tools for developers
+"Innovative Mobile Developer and Team Lead with 8 years of IT experience and 3 years specializing in Flutter. Expert in optimizing application lifecycles using CI/CD pipelines, Flutter Flavors, and TestFlight for automated, scalable deployments."
+
+- 💼 **Experience:** Leading mobile development teams to build scalable marketplace and tracking apps.
+- 🚀 **Open Source:** Actively contributing to the Flutter community (check out my CLI tools!).
+- 💬 **Ask me about:** Flutter, Dart, Clean Architecture, BLoC, and Automated Deployments.
+- 📫 **Reach me at:** emadeadev@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Open Source Contributions
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Emad-Pro&show_icons=true&theme=dark" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emad-Pro&layout=compact&theme=dark" height="160px"/>
-
+  <a href="https://pub.dev/packages/app_name_localizer">
+    <img src="https://img.shields.io/pub/v/app_name_localizer?color=blue&label=app_name_localizer&logo=flutter&style=for-the-badge" alt="app_name_localizer package"/>
+  </a>
+  <br/>
+  <p><i>A powerful CLI tool for Flutter developers to easily localize and manage app names for iOS and Android directly from the terminal.</i></p>
 </div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Tools
 
+### 📱 Mobile & Languages
 <table>
   <tr valign="top">
-    <td width="80px" align="center">
-      <strong>HTML</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>CSS</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>C++</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>C#</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>Python</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>Lua</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"/>
-    </td>
     <td width="80px" align="center">
       <strong>Dart</strong><br/>
       <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
@@ -73,98 +51,77 @@
       <strong>Flutter</strong><br/>
       <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
     </td>
+    <td width="80px" align="center">
+      <strong>Android</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+    </td>
+    <td width="80px" align="center">
+      <strong>Apple</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
+    </td>
   </tr>
 </table>
 
-### 💻 IDEs & Editors
-
+### 🗄️ Backend, BaaS & Database
 <table>
   <tr valign="top">
     <td width="80px" align="center">
-      <strong>Android Studio</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+      <strong>Firebase</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
     </td>
     <td width="80px" align="center">
-      <strong>IntelliJ</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+      <strong>Supabase</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
+    </td>
+    <td width="80px" align="center">
+      <strong>SQLite</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ DevOps & IDEs
+<table>
+  <tr valign="top">
+    <td width="80px" align="center">
+      <strong>Git</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    </td>
+    <td width="80px" align="center">
+      <strong>GitHub</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    </td>
+    <td width="80px" align="center">
+      <strong>Xcode</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
     </td>
     <td width="80px" align="center">
       <strong>VS Code</strong><br/>
       <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     </td>
     <td width="80px" align="center">
-      <strong>Atom</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"/>
+      <strong>Android Studio</strong><br/>
+      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🗄️ Databases & DevOps
+## 📊 GitHub Stats
 
-<table>
-  <tr valign="top">
-    <td width="80px" align="center">
-      <strong>SQLite</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>MySQL</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>Firebase</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="80px" align="center">
-      <strong>FileZilla</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>Git</strong><br/>
-      <img height="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>GitHub</strong><br/>
-      <img height="32px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emad-Pro&show_icons=true&theme=dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emad-Pro&layout=compact&theme=dark" height="160px"/>
+</div>
 
 ---
 
-## 🎨 Design Tools
-
-<table>
-  <tr valign="top">
-    <td width="80px" align="center">
-      <strong>Photoshop</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>Illustrator</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
-    </td>
-    <td width="80px" align="center">
-      <strong>After Effects</strong><br/>
-      <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📬 Contact Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/emadeadev/">
-    <img height="50" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/emad.dev.7/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/emad-younis/">
+    <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/EMadYounis98">
     <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" alt="Twitter"/>
@@ -174,5 +131,5 @@
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Emad</sub>
+  <sub>Built with ❤️ and Flutter by Emad Younis</sub>
 </div>
