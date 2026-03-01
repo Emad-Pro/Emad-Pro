@@ -67,14 +67,15 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emad-Pro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4AB&icon_color=00B4AB" height="160px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emad-Pro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4AB" height="160px" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Emad-Pro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4AB&icon_color=00B4AB" height="160px" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Emad-Pro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4AB" height="160px" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emad-Pro&theme=radical&hide_border=true&background=0D1117&ring=00B4AB&currStreakLabel=00B4AB" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Emad-Pro&theme=radical&hide_border=true&background=0D1117&ring=00B4AB&currStreakLabel=00B4AB" alt="GitHub Streak"/>
 </div>
 
 ---
