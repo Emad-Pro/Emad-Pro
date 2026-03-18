@@ -12,6 +12,9 @@
   <a href="https://pub.dev/packages/app_name_localizer">
     <img src="https://img.shields.io/pub/v/app_name_localizer?color=blue&label=app_name_localizer&logo=flutter&style=for-the-badge" alt="pub.dev">
   </a>
+<a href="https://marketplace.visualstudio.com/items?itemName=flutter-clean-architecture.flutter-easy-arch">
+    <img src="https://img.shields.io/badge/VS_Code_Extension-emadeadev-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Extension">
+  </a>
   <a href="mailto:emadeadev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -35,7 +38,10 @@
 
 ---
 
-## 🏆 Featured Open Source
+## 🏆 Featured Open Source & Tools
+
+### 🚀 [Flutter Architecture Generator (VS Code Extension)](https://marketplace.visualstudio.com/items?itemName=flutter-clean-architecture.flutter-easy-arch)
+> *An enterprise-level VS Code extension that automates the generation of Clean Architecture, MVVM, MVC, and MVP boilerplates for Flutter. Features out-of-the-box support for Bloc, Riverpod, GetX, and Provider with smart dependency injection and TDD-ready structures.*
 
 ### 📦 [app_name_localizer](https://pub.dev/packages/app_name_localizer)
 > *A powerful, automated CLI tool designed for Flutter developers to seamlessly localize and manage application names across iOS and Android directly from the terminal. Built for easy integration into CI/CD pipelines.*
